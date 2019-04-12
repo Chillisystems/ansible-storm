@@ -16,4 +16,4 @@
 # (c) 2016 Donovan Francesco <donovan.francesco@is.co.za>
 # (c) 2016 Paul Stevens <paul.stevens@is.co.za>
 storm_distro_packages:
-  - default-jre-headless
+  - openjdk-8-jre-headless
